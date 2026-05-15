@@ -1,0 +1,124 @@
+{
+  "bellandur_rows": [
+    {
+      "name": "The Fatty Bao",
+      "location": "Bellandur",
+      "cuisines": "Asian, Chinese, Japanese",
+      "approx_cost(for two people)": "1800",
+      "rate": "4.6/5",
+      "votes": 1840,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Truffles",
+      "location": "Bellandur",
+      "cuisines": "American, Burger, Continental",
+      "approx_cost(for two people)": "1200",
+      "rate": "4.5/5",
+      "votes": 2310,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Burma Burma",
+      "location": "Bellandur",
+      "cuisines": "Burmese, Asian",
+      "approx_cost(for two people)": "1600",
+      "rate": "4.4/5",
+      "votes": 980,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Onesta",
+      "location": "Bellandur",
+      "cuisines": "Italian, Pizza, Pasta",
+      "approx_cost(for two people)": "900",
+      "rate": "4.3/5",
+      "votes": 1550,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Hammered",
+      "location": "Bellandur",
+      "cuisines": "North Indian, Continental, Bar Food",
+      "approx_cost(for two people)": "2000",
+      "rate": "4.2/5",
+      "votes": 730,
+      "rest_type": "Bar",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Barbeque Nation",
+      "location": "Bellandur",
+      "cuisines": "North Indian, Barbeque",
+      "approx_cost(for two people)": "1800",
+      "rate": "4.1/5",
+      "votes": 3200,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Chili's",
+      "location": "Bellandur",
+      "cuisines": "American, Mexican, Continental",
+      "approx_cost(for two people)": "1700",
+      "rate": "4.0/5",
+      "votes": 1120,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Absolute Barbecues",
+      "location": "Bellandur",
+      "cuisines": "North Indian, Chinese, Seafood",
+      "approx_cost(for two people)": "2000",
+      "rate": "4.3/5",
+      "votes": 2750,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Smoke House Deli",
+      "location": "Bellandur",
+      "cuisines": "Continental, Italian, Salads",
+      "approx_cost(for two people)": "1500",
+      "rate": "4.1/5",
+      "votes": 640,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Meghana Foods",
+      "location": "Bellandur",
+      "cuisines": "Biryani, South Indian, Andhra",
+      "approx_cost(for two people)": "600",
+      "rate": "4.4/5",
+      "votes": 4100,
+      "rest_type": "Quick Bites",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Fenny's Lounge and Kitchen",
+      "location": "Bellandur",
+      "cuisines": "North Indian, Continental, Seafood",
+      "approx_cost(for two people)": "1800",
+      "rate": "3.9/5",
+      "votes": 510,
+      "rest_type": "Bar",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Mainland China",
+      "location": "Bellandur",
+      "cuisines": "Chinese",
+      "approx_cost(for two people)": "1600",
+      "rate": "3.8/5",
+      "votes": 420,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    }
+  ]
+}

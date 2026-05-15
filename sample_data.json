@@ -1,0 +1,79 @@
+{
+  "sample_rows": [
+    {
+      "name": "Spice Garden",
+      "location": "Indiranagar",
+      "cuisines": "North Indian, Chinese",
+      "approx_cost(for two people)": "500",
+      "rate": "4.2/5",
+      "votes": 320,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Café Bloom",
+      "location": "Koramangala",
+      "cuisines": "Continental, Cafe",
+      "approx_cost(for two people)": "250",
+      "rate": "4.5/5",
+      "votes": 890,
+      "rest_type": "Cafe",
+      "listed_in(type)": "Cafes"
+    },
+    {
+      "name": "Dragon Palace",
+      "location": "Indiranagar",
+      "cuisines": "Chinese",
+      "approx_cost(for two people)": "800",
+      "rate": "3.8/5",
+      "votes": 210,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Duplicate Place",
+      "location": "Indiranagar",
+      "cuisines": "South Indian",
+      "approx_cost(for two people)": "300",
+      "rate": "3.5/5",
+      "votes": 100,
+      "rest_type": "Quick Bites",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Duplicate Place",
+      "location": "Indiranagar",
+      "cuisines": "South Indian",
+      "approx_cost(for two people)": "300",
+      "rate": "4.1/5",
+      "votes": 150,
+      "rest_type": "Quick Bites",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "Missing Rating Place",
+      "location": "Whitefield",
+      "cuisines": "Italian",
+      "approx_cost(for two people)": "600",
+      "rate": "NEW",
+      "votes": 0,
+      "rest_type": "Casual Dining",
+      "listed_in(type)": "Dine-out"
+    },
+    {
+      "name": "",
+      "location": "Somewhere",
+      "cuisines": "Italian",
+      "approx_cost(for two people)": "400",
+      "rate": "4.0",
+      "votes": 50,
+      "rest_type": "",
+      "listed_in(type)": ""
+    }
+  ],
+  "llm_response_valid": "{\"rankings\": [{\"restaurant_id\": \"spice_garden_indiranagar\", \"rank\": 1, \"explanation\": \"Great North Indian food within budget.\"}, {\"restaurant_id\": \"dragon_palace_indiranagar\", \"rank\": 2, \"explanation\": \"Solid Chinese option.\"}]}",
+  "llm_response_fenced": "```json\n{\"rankings\": [{\"restaurant_id\": \"spice_garden_indiranagar\", \"rank\": 1, \"explanation\": \"Great match.\"}]}\n```",
+  "llm_response_hallucinated": "{\"rankings\": [{\"restaurant_id\": \"fake_restaurant_xyz\", \"rank\": 1, \"explanation\": \"Invented place.\"}]}",
+  "llm_response_malformed": "Sorry, I cannot help with that.",
+  "llm_response_empty_explanation": "{\"rankings\": [{\"restaurant_id\": \"spice_garden_indiranagar\", \"rank\": 1, \"explanation\": \"   \"}]}"
+}
