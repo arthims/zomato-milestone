@@ -1,9 +1,10 @@
-import sys
+import sys, os
 from pathlib import Path
 
-# add src/ to path so imports work without pip install -e .
-sys.path.insert(0, str(Path(__file__).parent / "src"))
+# Streamlit Cloud mounts repo at /mount/src/<repo-name>/
+# This ensures src/ is always on the path regardless of mount point
+root = Path(__file__).parent.resolve()
+sys.path.insert(0, str(root / "src"))
 
 from milestone1.phase9_streamlit.app import main
-
 main()
